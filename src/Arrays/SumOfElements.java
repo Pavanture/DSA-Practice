@@ -1,5 +1,5 @@
 package Arrays;
-
+// this problem is Print Sum of Elements in the Array
 import java.sql.Array;
 
 public class SumOfElements {
