@@ -1,5 +1,5 @@
 package Arrays;
-
+// print the negative number in the array
 public class NegativeElements {
     public static void main(String[] args) {
         int [] arr = {1,4,9,-23,45,-54,-4,34,67,-1,7};
